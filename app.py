@@ -1,6 +1,5 @@
 import streamlit as st
 import numpy as np
-import keras
 from keras.models import load_model
 from keras.utils import np_utils
 import cv2, os
