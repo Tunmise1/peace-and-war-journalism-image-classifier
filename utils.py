@@ -8,7 +8,7 @@ import re
 import base64
 
 img_size = 150
-model = load_model('models/model-001.model')
+#model = load_model('models/model-001.model')
 label_dict = {
     0: 'Peace Related',
     1: 'War Related'
