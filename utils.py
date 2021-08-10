@@ -1,7 +1,7 @@
 import numpy as np
-import tensorflow as tf
-from tf.keras.models import load_model
-from tf.keras.utils import np_utils
+import tensorflow
+from tensorflow.keras.models import load_model
+from tensorflow.keras.utils import np_utils
 import cv2, os
 from PIL import Image
 import io
