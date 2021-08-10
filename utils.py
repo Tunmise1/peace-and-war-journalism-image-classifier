@@ -1,8 +1,8 @@
+import cv2, os
 import numpy as np
 from keras.utils import np_utils
 from keras.models import load_model
 from PIL import Image
-import cv2, os
 import io
 import re
 import base64
