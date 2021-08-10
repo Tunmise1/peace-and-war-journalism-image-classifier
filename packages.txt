@@ -1,4 +1,4 @@
 freeglut3-dev
 libgtk2.0-dev
-opencv-python-headless==4.5.3.56
-Keras==2.4.3
+opencv-python-headless
+Keras
