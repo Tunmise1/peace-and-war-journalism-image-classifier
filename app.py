@@ -24,6 +24,7 @@ if navi == 'Background':
     st.write(project_background)
 
 if navi == 'Predict Images':
+    print('here')
     img = st.file_uploader("Upload Files",type=['png', 'jpeg', 'jpg'])
     if img is not None:
         image_data = img.read()
