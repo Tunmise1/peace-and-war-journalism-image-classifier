@@ -1,7 +1,8 @@
 import numpy as np
 import tensorflow
 from tensorflow.keras.models import load_model
-from tensorflow.keras.utils import np_utils
+from tensorflow.keras.utils import to_categorical
+#from tensorflow.keras.utils import np_utils
 import cv2, os
 from PIL import Image
 import io
