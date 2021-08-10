@@ -1,8 +1,5 @@
 import streamlit as st
 import numpy as np
-from keras.models import load_model
-from keras.utils import np_utils
-import cv2, os
 import pandas as pd
 from utils import predict
 import base64
