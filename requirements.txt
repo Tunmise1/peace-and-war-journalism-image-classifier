@@ -26,7 +26,7 @@ GitPython==3.1.18
 google-auth==1.32.1
 google-auth-oauthlib==0.4.4
 google-pasta==0.2.0
-grpcio==1.34.1
+grpcio
 h5py
 idna==2.10
 ipykernel==6.0.1
