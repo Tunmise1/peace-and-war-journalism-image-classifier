@@ -1,6 +1,6 @@
+import streamlit as st
 import numpy as np
 import pandas as pd
-import streamlit as st
 from utils import predict
 import base64
 import io
