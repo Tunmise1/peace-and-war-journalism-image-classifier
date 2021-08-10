@@ -1,7 +1,7 @@
-import cv2, os
-import numpy as np
 from keras.utils import np_utils
 from keras.models import load_model
+import cv2, os
+import numpy as np
 from PIL import Image
 import io
 import re
